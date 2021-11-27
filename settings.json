@@ -1,5 +1,5 @@
 {
-    "self_mode": false,
+    "self_mode": true,
 	"autobio": false,
 	"antihidetag": false,
 	"user_register": false,
